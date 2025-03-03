@@ -6,13 +6,15 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <title><%: Page.Title %> - University Basketball Team Portal</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
 
 </head>
 <body>
@@ -36,29 +38,36 @@
             </Scripts>
         </asp:ScriptManager>
 
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" runat="server" href="~/">Application name</a>
+                <a class="navbar-brand" runat="server" href="~/">
+                    <i class="fas fa-basketball fa-bounce me-2"></i>
+                    University Basketball
+                </a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/About">About</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/"><i class="fas fa-home me-1"></i> Home</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Teams.aspx"><i class="fas fa-users me-1"></i> Teams</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Tournaments.aspx"><i class="fas fa-trophy me-1"></i> Tournaments</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/SignUp.aspx"><i class="fas fa-clipboard-list me-1"></i> Sign-Up</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/FAQ.aspx"><i class="fas fa-question-circle me-1"></i> FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact"><i class="fas fa-envelope me-1"></i> Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Admin.aspx"><i class="fas fa-user-shield me-1"></i> Admin</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="navbar-nav navbar-right">
-                                <li><a runat="server" class="nav-link" href="~/Account/Register">Register</a></li>
-                                <li><a runat="server" class="nav-link" href="~/Account/Login">Log in</a></li>
+                                <li><a runat="server" class="nav-link" href="~/Account/Register"><i class="fas fa-user-plus me-1"></i> Register</a></li>
+                                <li><a runat="server" class="nav-link" href="~/Account/Login"><i class="fas fa-sign-in-alt me-1"></i> Log in</a></li>
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
                             <ul class="navbar-nav navbar-right">
-                                <li><a runat="server" class="nav-link" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li><a runat="server" class="nav-link" href="~/Account/Manage" title="Manage your account"><i class="fas fa-user-circle me-1"></i> Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
                                 <li>
                                     <asp:LoginStatus runat="server" CssClass="nav-link" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
                                 </li>
@@ -73,7 +82,19 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>&copy; <%: DateTime.Now.Year %> - University Basketball Team Portal</p>
+                    </div>
+                    <div class="col-md-6 text-end">
+                        <ul class="list-inline">
+                            <li class="list-inline-item"><a href="#"><i class="fab fa-facebook fa-lg"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fab fa-instagram fa-lg"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fab fa-youtube fa-lg"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
             </footer>
         </div>
     </form>
