@@ -6,7 +6,7 @@
         <!-- Hero Section -->
         <section class="hero-section text-center py-5 mb-4 bg-primary text-white">
             <div class="container">
-                <h1 class="display-4">University Basketball Team Portal</h1>
+                <h1 class="display-4">APU Basketball Team Portal</h1>
                 <p class="lead">Your one-stop resource for team information, tournaments, and basketball program management</p>
                 <a href="#upcoming-events" class="btn btn-light btn-lg mt-3">View Upcoming Events</a>
             </div>
@@ -71,7 +71,7 @@
                                 <div class="d-flex justify-content-between">
                                     <div>
                                         <h4>Regional Championship Tournament</h4>
-                                        <p class="text-muted">March 15-17, 2023</p>
+                                        <p class="text-muted">March 15-17, 2025</p>
                                         <p>Join us for the annual regional championship tournament. Our team will compete against the best in the region.</p>
                                     </div>
                                     <div class="text-center">
@@ -89,7 +89,7 @@
                                 <div class="d-flex justify-content-between">
                                     <div>
                                         <h4>Team Tryouts - Spring Season</h4>
-                                        <p class="text-muted">April 5-7, 2023</p>
+                                        <p class="text-muted">April 5-7, 2025</p>
                                         <p>Tryouts for the spring season are coming up. All students are welcome to participate.</p>
                                     </div>
                                     <div class="text-center">
@@ -117,7 +117,7 @@
                                     <i class="fas fa-user fa-3x"></i>
                                 </div>
                                 <h4>John Smith</h4>
-                                <p class="text-muted">Head Coach</p>
+                                <p class="text-muted">Head Coach, Men's</p>
                                 <p>Coach Smith has led our team to 5 championship titles in the last decade.</p>
                             </div>
                         </div>
@@ -128,9 +128,9 @@
                                 <div class="rounded-circle bg-primary text-white d-inline-flex justify-content-center align-items-center mb-3" style="width: 100px; height: 100px;">
                                     <i class="fas fa-user fa-3x"></i>
                                 </div>
-                                <h4>Sarah Johnson</h4>
-                                <p class="text-muted">Assistant Coach</p>
-                                <p>Coach Johnson specializes in offensive strategies and player development.</p>
+                                <h4>Zahra Muhammed</h4>
+                                <p class="text-muted">Head Coach, Women's</p>
+                                <p>Coach Muhammed specializes in offensive strategies and player development.</p>
                             </div>
                         </div>
                     </div>
@@ -140,9 +140,9 @@
                                 <div class="rounded-circle bg-primary text-white d-inline-flex justify-content-center align-items-center mb-3" style="width: 100px; height: 100px;">
                                     <i class="fas fa-user fa-3x"></i>
                                 </div>
-                                <h4>Michael Davis</h4>
-                                <p class="text-muted">Strength & Conditioning</p>
-                                <p>Coach Davis ensures our players are in peak physical condition throughout the season.</p>
+                                <h4>Michael Wong</h4>
+                                <p class="text-muted">Head of Strength & Conditioning</p>
+                                <p>Coach Wong ensures our players are in peak physical condition throughout the season.</p>
                             </div>
                         </div>
                     </div>

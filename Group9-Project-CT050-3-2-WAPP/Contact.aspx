@@ -21,7 +21,7 @@
                         Jalan Teknologi 5<br />
                         Taman Teknologi Malaysia, KL 57000<br />
                         <i class="fas fa-phone me-2 text-primary mt-3"></i> <abbr title="Phone">P:</abbr> +60 12 456-7890<br />
-                        <i class="fas fa-fax me-2 text-primary"></i> <abbr title="Fax">F:</abbr> +603 456-7891
+                        <i class="fas fa-fax me-2 text-primary"></i> <abbr title="Fax">F:</abbr> +60 3 456-7891
                     </address>
 
                     <h3>Department Contacts</h3>

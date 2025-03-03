@@ -164,7 +164,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-secondary"></i>
                                     </div>
-                                    <h4>Coach: Mark Wilson</h4>
+                                    <h4>Coach: Mark Wong</h4>
                                     <p class="text-muted">Head Coach since 2018</p>
                                 </div>
                                 <div class="card">
@@ -215,7 +215,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-primary"></i>
                                     </div>
-                                    <h4>Coach: Sarah Johnson</h4>
+                                    <h4>Coach: Zahra Muhammed</h4>
                                     <p class="text-muted">Head Coach since 2017</p>
                                 </div>
                                 <div class="card">
@@ -259,19 +259,19 @@
                                         <tbody>
                                             <tr>
                                                 <td>1</td>
-                                                <td>Sarah Thompson</td>
+                                                <td>Sarah Lim</td>
                                                 <td>Point Guard</td>
                                                 <td>Senior</td>
                                                 <td>5'8"</td>
-                                                <td>Portland, OR</td>
+                                                <td>Kuala Lumpur, WPS</td>
                                             </tr>
                                             <tr>
                                                 <td>2</td>
-                                                <td>Emily Martinez</td>
+                                                <td>Emily Lee</td>
                                                 <td>Shooting Guard</td>
                                                 <td>Junior</td>
                                                 <td>5'9"</td>
-                                                <td>San Diego, CA</td>
+                                                <td>Kuala Lumpur, WPS</td>
                                             </tr>
                                             <tr>
                                                 <td>3</td>
@@ -279,47 +279,47 @@
                                                 <td>Small Forward</td>
                                                 <td>Senior</td>
                                                 <td>5'11"</td>
-                                                <td>Dallas, TX</td>
+                                                <td>Petaling Jaya, SEL</td>
                                             </tr>
                                             <tr>
                                                 <td>4</td>
-                                                <td>Amanda Wilson</td>
+                                                <td>Aida Farid</td>
                                                 <td>Power Forward</td>
                                                 <td>Sophomore</td>
                                                 <td>6'1"</td>
-                                                <td>Chicago, IL</td>
+                                                <td>Kuala Lumpur, WPS</td>
                                             </tr>
                                             <tr>
                                                 <td>5</td>
-                                                <td>Michelle Johnson</td>
+                                                <td>Roshana Faruk</td>
                                                 <td>Center</td>
                                                 <td>Junior</td>
                                                 <td>6'3"</td>
-                                                <td>Atlanta, GA</td>
+                                                <td>Gombak, SEL</td>
                                             </tr>
                                             <tr>
                                                 <td>10</td>
-                                                <td>Rachel Brown</td>
+                                                <td>Rachel Lee</td>
                                                 <td>Point Guard</td>
                                                 <td>Freshman</td>
                                                 <td>5'7"</td>
-                                                <td>Denver, CO</td>
+                                                <td>Kuala Lumpur, WPS</td>
                                             </tr>
                                             <tr>
                                                 <td>12</td>
-                                                <td>Stephanie Davis</td>
+                                                <td>Stephanie Wong</td>
                                                 <td>Shooting Guard</td>
                                                 <td>Sophomore</td>
                                                 <td>5'10"</td>
-                                                <td>Phoenix, AZ</td>
+                                                <td>Subang, SEL</td>
                                             </tr>
                                             <tr>
                                                 <td>15</td>
-                                                <td>Jennifer Smith</td>
+                                                <td>Jennifer Chong</td>
                                                 <td>Small Forward</td>
                                                 <td>Junior</td>
                                                 <td>6'0"</td>
-                                                <td>Philadelphia, PA</td>
+                                                <td>Kuala Lumpur, WPS</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -344,7 +344,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-secondary"></i>
                                     </div>
-                                    <h4>Coach: Lisa Rodriguez</h4>
+                                    <h4>Coach: Michelle Yong</h4>
                                     <p class="text-muted">Head Coach since 2019</p>
                                 </div>
                                 <div class="card">
