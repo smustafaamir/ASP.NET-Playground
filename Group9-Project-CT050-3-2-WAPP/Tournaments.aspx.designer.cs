@@ -7,12 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Group9_Project_CT050_3_2_WAPP {
-    
-    
-    public partial class Tournaments {
-        
-        // Note: Currently there are no server controls that need to be declared
-        // If server controls are added to the Tournaments.aspx page, they will be declared here
+namespace Group9_Project_CT050_3_2_WAPP
+{
+
+
+    public partial class Tournaments
+    {
     }
-} 
+}
