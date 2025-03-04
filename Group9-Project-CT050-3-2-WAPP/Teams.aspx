@@ -26,7 +26,7 @@
                 <!-- Men's Varsity -->
                 <div id="mens-varsity" class="card mb-4 shadow-sm">
                     <div class="card-header bg-primary text-white">
-                        <h3 class="mb-0">Men's Varsity Team</h3>
+                        <h3 class="mb-0">Men's Local Team</h3>
                     </div>
                     <div class="card-body">
                         <div class="row mb-4">
@@ -35,7 +35,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-primary"></i>
                                     </div>
-                                    <h4>Coach: John Smith</h4>
+                                    <h4>Coach: John Yung</h4>
                                     <p class="text-muted">Head Coach since 2015</p>
                                 </div>
                                 <div class="card">
@@ -48,7 +48,7 @@
                                             <strong>18-5</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
-                                            <span>Conference Standing:</span>
+                                            <span>District Standing:</span>
                                             <strong>2nd Place</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
@@ -152,10 +152,10 @@
                     </div>
                 </div>
                 
-                <!-- Men's Junior Varsity -->
+                <!-- Men's Foreign -->
                 <div id="mens-jv" class="card mb-4 shadow-sm">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="mb-0">Men's Junior Varsity Team</h3>
+                        <h3 class="mb-0">Men's Foreign Team</h3>
                     </div>
                     <div class="card-body">
                         <div class="row mb-4">
@@ -164,7 +164,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-secondary"></i>
                                     </div>
-                                    <h4>Coach: Mark Wong</h4>
+                                    <h4>Coach: John Yung</h4>
                                     <p class="text-muted">Head Coach since 2018</p>
                                 </div>
                                 <div class="card">
@@ -177,7 +177,7 @@
                                             <strong>12-8</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
-                                            <span>Conference Standing:</span>
+                                            <span>District Standing:</span>
                                             <strong>4th Place</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
@@ -189,7 +189,7 @@
                             </div>
                             <div class="col-md-8">
                                 <h4 class="mb-3">Team Roster</h4>
-                                <p>The Men's Junior Varsity team consists of promising young athletes who are developing their skills for future varsity competition. The team competes in regional junior varsity tournaments and serves as a development program for the varsity team.</p>
+                                <p>The Men's foreign team consists of promising young athletes who are developing their skills for future competition. The team competes in regional tournaments and serves as a development program for the overall APU sports function.</p>
                                 <div class="text-center mt-4">
                                     <a href="#" class="btn btn-secondary">View Full Team Roster</a>
                                 </div>
@@ -203,10 +203,10 @@
             <section id="womens-teams">
                 <h2 class="border-bottom pb-2 mb-4">Women's Basketball Teams</h2>
                 
-                <!-- Women's Varsity -->
+                <!-- Women's Local -->
                 <div id="womens-varsity" class="card mb-4 shadow-sm">
                     <div class="card-header bg-primary text-white">
-                        <h3 class="mb-0">Women's Varsity Team</h3>
+                        <h3 class="mb-0">Women's Local Team</h3>
                     </div>
                     <div class="card-body">
                         <div class="row mb-4">
@@ -228,7 +228,7 @@
                                             <strong>20-3</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
-                                            <span>Conference Standing:</span>
+                                            <span>District Standing:</span>
                                             <strong>1st Place</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
@@ -332,10 +332,10 @@
                     </div>
                 </div>
                 
-                <!-- Women's Junior Varsity -->
+                <!-- Women's Foreign -->
                 <div id="womens-jv" class="card mb-4 shadow-sm">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="mb-0">Women's Junior Varsity Team</h3>
+                        <h3 class="mb-0">Women's Foreign Team</h3>
                     </div>
                     <div class="card-body">
                         <div class="row mb-4">
@@ -344,7 +344,7 @@
                                     <div class="bg-light p-3 rounded-circle d-inline-flex justify-content-center align-items-center mb-3" style="width: 150px; height: 150px;">
                                         <i class="fas fa-basketball-ball fa-4x text-secondary"></i>
                                     </div>
-                                    <h4>Coach: Michelle Yong</h4>
+                                    <h4>Coach: Zahra Muhammed</h4>
                                     <p class="text-muted">Head Coach since 2019</p>
                                 </div>
                                 <div class="card">
@@ -357,7 +357,7 @@
                                             <strong>15-7</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
-                                            <span>Conference Standing:</span>
+                                            <span>District Standing:</span>
                                             <strong>3rd Place</strong>
                                         </li>
                                         <li class="list-group-item d-flex justify-content-between">
@@ -369,7 +369,7 @@
                             </div>
                             <div class="col-md-8">
                                 <h4 class="mb-3">Team Roster</h4>
-                                <p>The Women's Junior Varsity team is composed of talented athletes who are developing their skills for future varsity competition. The team competes in regional junior varsity tournaments and serves as a development program for the varsity team.</p>
+                                <p>The Women's foreign team consists of promising young athletes who are developing their skills for future competition. The team competes in regional tournaments and serves as a development program for the overall APU sports function.</p>
                                 <div class="text-center mt-4">
                                     <a href="#" class="btn btn-secondary">View Full Team Roster</a>
                                 </div>
@@ -384,8 +384,8 @@
                 <div class="card bg-light">
                     <div class="card-body">
                         <h2 class="card-title">Team History</h2>
-                        <p>The University Basketball Program has a rich history dating back to 1965. Over the decades, our teams have achieved numerous championships and produced several professional players. The program emphasizes both athletic excellence and academic achievement.</p>
-                        <p>Our women's program, established in 1972, has been particularly successful, winning 4 national championships and 12 conference titles. The men's program has secured 3 national championships and 10 conference titles.</p>
+                        <p>The APU Basketball Program has a rich history dating back to 1993. Over the years, our teams have achieved numerous championships and produced several professional players. The program emphasizes both athletic excellence and academic achievement.</p>
+                        <p>Our women's program, established in 2003, has been particularly successful, winning 4 national championships and 12 district titles. The men's program has secured 3 national championships and 10 district titles.</p>
                         <div class="text-center mt-3">
                             <a href="#" class="btn btn-outline-primary">Learn More About Our History</a>
                         </div>

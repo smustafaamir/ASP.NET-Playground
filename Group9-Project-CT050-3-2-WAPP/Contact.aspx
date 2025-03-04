@@ -33,8 +33,8 @@
                         </div>
                         <div class="mb-3">
                             <strong><i class="fas fa-whistle me-2 text-primary"></i> Head Coach:</strong><br />
-                            John Smith<br />
-                            <a href="mailto:jsmith@university.edu">jsmith@mail.apu.edu.my</a>
+                            John Yung<br />
+                            <a href="mailto:jsmith@university.edu">jyung@mail.apu.edu.my</a>
                         </div>
                         <div class="mb-3">
                             <strong><i class="fas fa-calendar-alt me-2 text-primary"></i> Team Scheduling:</strong><br />

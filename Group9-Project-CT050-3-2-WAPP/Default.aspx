@@ -116,9 +116,9 @@
                                 <div class="rounded-circle bg-primary text-white d-inline-flex justify-content-center align-items-center mb-3" style="width: 100px; height: 100px;">
                                     <i class="fas fa-user fa-3x"></i>
                                 </div>
-                                <h4>John Smith</h4>
+                                <h4>John Yung</h4>
                                 <p class="text-muted">Head Coach, Men's</p>
-                                <p>Coach Smith has led our team to 5 championship titles in the last decade.</p>
+                                <p>Coach Yung has led our team to 5 championship titles in the last decade.</p>
                             </div>
                         </div>
                     </div>
