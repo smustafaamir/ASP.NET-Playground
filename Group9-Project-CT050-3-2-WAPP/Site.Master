@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - University Basketball Team Portal</title>
+    <title><%: Page.Title %> - APU Basketball Program</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -42,7 +42,7 @@
             <div class="container">
                 <a class="navbar-brand" runat="server" href="~/">
                     <i class="fas fa-basketball fa-bounce me-2"></i>
-                    University Basketball
+                    APU Basketball Program
                 </a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -84,7 +84,7 @@
             <footer>
                 <div class="row">
                     <div class="col-md-6">
-                        <p>&copy; <%: DateTime.Now.Year %> - University Basketball Team Portal</p>
+                        <p>&copy; <%: DateTime.Now.Year %> - APU Basketball Program</p>
                     </div>
                     <div class="col-md-6 text-end">
                         <ul class="list-inline">
