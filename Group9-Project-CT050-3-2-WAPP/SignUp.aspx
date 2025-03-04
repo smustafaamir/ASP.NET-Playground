@@ -66,7 +66,7 @@
                         <p>Complete this form to register for basketball team tryouts. Please note that all applicants must be currently enrolled students and must provide medical clearance before participating.</p>
                         
                         <div class="alert alert-info">
-                            <i class="fas fa-info-circle me-2"></i> Tryouts will be held at the University Sports Complex. Please arrive 30 minutes before your scheduled time and bring appropriate athletic attire.
+                            <i class="fas fa-info-circle me-2"></i> Tryouts will be held at the APU Central Court (opp. Bila Bila Mart). Please arrive 30 minutes before your scheduled time and bring appropriate athletic attire.
                         </div>
                         
                         <form>
@@ -413,9 +413,9 @@
                             <div class="col-md-6">
                                 <h5>Contact Information</h5>
                                 <ul class="list-unstyled">
-                                    <li><i class="fas fa-envelope me-2"></i> basketball@university.edu</li>
-                                    <li><i class="fas fa-phone me-2"></i> (123) 456-7890</li>
-                                    <li><i class="fas fa-map-marker-alt me-2"></i> University Sports Complex, Room 101</li>
+                                    <li><i class="fas fa-envelope me-2"></i> basketball@mail.edu.my</li>
+                                    <li><i class="fas fa-phone me-2"></i> +60 12 456-7890</li>
+                                    <li><i class="fas fa-map-marker-alt me-2"></i> APU Central Court (opp. Bila Bila Mart)</li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
