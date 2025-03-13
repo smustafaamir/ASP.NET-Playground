@@ -22,6 +22,24 @@ namespace Group9_Project_CT050_3_2_WAPP.Account {
         protected global::System.Web.UI.WebControls.Literal ErrorMessage;
         
         /// <summary>
+        /// TPNumber control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TPNumber;
+        
+        /// <summary>
+        /// IntakeCode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox IntakeCode;
+        
+        /// <summary>
         /// Email control.
         /// </summary>
         /// <remarks>

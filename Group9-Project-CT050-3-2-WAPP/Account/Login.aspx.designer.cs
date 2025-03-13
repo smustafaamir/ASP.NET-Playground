@@ -31,6 +31,15 @@ namespace Group9_Project_CT050_3_2_WAPP.Account {
         protected global::System.Web.UI.WebControls.Literal FailureText;
         
         /// <summary>
+        /// TPNumber control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TPNumber;
+        
+        /// <summary>
         /// Email control.
         /// </summary>
         /// <remarks>
