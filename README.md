@@ -1,4 +1,4 @@
-# Group9-Project-CT050-3-2-WAPP
+# ASP.NET-Playground
 
-Full-stack ASP.NET web application with C# for server-side ops, and MySQL for database management. Part of university group project. 
+Full-stack ASP.NET web application with C# for server-side ops, and MySQL for database management. Part of experimentation for university project. 
 
